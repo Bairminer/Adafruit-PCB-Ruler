@@ -1,6 +1,8 @@
 # PCB for the Adafruit PCB Ruler - Edited by fabl3r
 
-A ruler based off the Adafruit PCB Ruler, with the components on the rear replaced with ones I frequently use!
+A ruler based off the Adafruit PCB Ruler, with the components on the rear replaced with ones I frequently use!  
+
+![Ruler](/assets/image2.png)  
 
 # Based off Adafruit PCB Ruler!
 Format is EagleCAD schematic and board layout
