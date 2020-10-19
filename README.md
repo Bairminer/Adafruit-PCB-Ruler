@@ -1,4 +1,4 @@
-# PCB for the Adafruit PCB Ruler - Edited by fabl3r
+# PCB for the Adafruit PCB Ruler - Edited by me
 
 A ruler based off the Adafruit PCB Ruler, with the components on the rear replaced with ones I frequently use, along with my logo and handles!  
 
